@@ -210,38 +210,29 @@ void queen( int r1 , int c1 )
         y++ ;
     }
     y = 1 ;
-
     while( board[r1][c1+y] == ' ' )
     {
         if( (c1+y) == 8 ) break ;
         printf( "%d%d , " , r1 , c1+y ) ;
         y++ ;
     }
-
     printf( "Vertical: " ) ;
-
     x = 1 ;
-
     while( board[r1-x][c1] == ' ' )
     {
         if( (r1-x) == -1 ) break ;
         printf( "%d%d , " , r1-x , c1 ) ;
         x++ ;
     }
-
     x = 1 ;
-
     while( board[r1+x][c1] == ' ' )
     {
         if( (r1+x) == 8 ) break ;
         printf( "%d%d , " , r1+x , c1 ) ;
         x++ ;
     }
-
     printf( "Diagonally: " ) ;
-
     a = 1 , b = 1 ;
-
     while( board[r1-a][c1+b] == ' ' )
     {
         if( (r1-a) == -1 || (c1+b) == 8 ) break ;
@@ -249,10 +240,7 @@ void queen( int r1 , int c1 )
         a++ ;
         b++ ;
     }
-
-
     a = 1 , b = 1 ;
-
     while( board[r1+a][c1-b] == ' ' )
     {
         if( (r1+a) == 8 || (c1-b) == -1 ) break ;
@@ -260,10 +248,7 @@ void queen( int r1 , int c1 )
         a++ ;
         b++ ;
     }
-
     a = 1 , b = 1 ;
-
-
     while( board[r1+a][c1+b] == ' ' )
     {
         if( (r1+a) == 8 || (c1+b) == 8 ) break ;
@@ -271,10 +256,8 @@ void queen( int r1 , int c1 )
         a++ ;
         b++ ;
     }
-
     a = 1 ;
     b = 1 ;
-
     while( board[r1-a][c1-b] == ' ' )
     {
         if( (r1-a) == -1 || (c1-b) == -1 ) break ;
@@ -282,16 +265,11 @@ void queen( int r1 , int c1 )
         a++ ;
         b++ ;
     }
-
 }
-
 void pawnb( int r1 , int c1 ) // paido black
 {
     pbstatus[c1]++;
-
     printf( "Available are: \n" ) ;
-
-
     if( pbstatus[c1] == 1 )
     {
         if( board[r1-1][c1] == ' ' )
@@ -304,28 +282,21 @@ void pawnb( int r1 , int c1 ) // paido black
     {
         if(board[r1-1][c1] == ' ' )
         printf( "%d%d , " , r1-1 , c1 ) ;
-
         if( check2(r1-1 , c1-1) == 1 )
         printf( "%d%d* , " , r1-1 , c1-1 ) ;
-
         if( check2(r1-1 , c1+1) == 1 )
         printf( "%d%d* , " , r1-1 , c1+1 ) ;
     }
-
 }
-
 void player1()
 {
     int p1 , p2 , c1 , r1 , c2 , r2;
-
     printf( "\nPLAYER 1 - Big Case\n" ) ;
     again1:
     printf( "\nEnter Position of Element to change ( RC ): " ) ;
     scanf( "%d" , &p1 ) ;
-
     c1 = p1 % 10 ;
     r1 = p1 / 10 ;
-
     switch( board[r1][c1] )
     {
         case 'P': pawn( r1 , c1 );
@@ -342,29 +313,21 @@ void player1()
                   break ;
         default: printf("Invalid Position ! ") ; goto again1 ;
     }
-
     printf( "\nEnter Position of Place to Send ( RC ): " ) ;
     scanf( "%d" , &p2 ) ;
-
     c2 = p2 % 10 ;
     r2 = p2 / 10  ;
-
-
     change(r1,c1,r2,c2) ;
 }
-
 void player2()
 {
     int p1 , p2 , c1 , r1 , c2 , r2;
-
     printf( "\nPLAYER 2 - Small Case \n") ;
     again2:
     printf( "\nEnter Position of Element to change ( RC ): " ) ;
     scanf( "%d" , &p1 ) ;
-
     c1 = p1 % 10 ;
     r1 = p1 / 10 ;
-
     switch( board[r1][c1] )
     {
         case 'p': pawnb( r1 , c1 ) ;
@@ -381,8 +344,6 @@ void player2()
                   break ;
         default: printf( "Invalid Position ! " ) ; goto again2 ;
     }
-
-
     printf( "\nEnter Position of Place to Send ( RC ): " ) ;
     scanf( "%d" , &p2 ) ;
 
@@ -406,7 +367,6 @@ int check(int x , int y )
     default: return 0 ;
     }
 }
-
 int check2(int x , int y )
 {
     switch( board[x][y] )
