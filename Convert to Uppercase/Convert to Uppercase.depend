@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639200499 source:c:\users\user\desktop\convert to uppercase\main.c
+	<stdio.h>
+	<string.h>
+
