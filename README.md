@@ -1,13 +1,13 @@
 # C Programs for Beginners
 C programs on various topics of C Programming such as array, strings, series, area & volume of geometrical figures, mathematical calculation, sorting & searching algorithms and many more.
 # Arrays
-1. [To arrange numbers in ascending order]()
-2. [To Calculate Standard Deviation]()
-3. [To find the Largest Element in an Array](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Largest)
-4. [To find the Number of Elements in an Array]()
-5. [Multiply Two Matrices Using Multi-dimensional Arrays]()
-6. [Swap Numbers in Cyclic Order Using Call by Reference]()
-7. [To Find Transpose of a Matrix]()
+1. [To arrange numbers in ascending order](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Arrange%20Array/main.c)
+2. [To Calculate Standard Deviation](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Standard%20Deviation/main.c)
+3. [To find the Largest Element in an Array](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Largest/Largest.c)
+4. [To find the Number of Elements in an Array](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Size%20(Array)/main.c)
+5. [Multiply Two Matrices Using Multi-dimensional Arrays](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Mutliply%20Martices%20(Multi%20Dimensional)/main.c)
+6. [Swap Numbers in Cyclic Order Using Call by Reference](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Swap%20(Call%20by%20Ref)/main.c)
+7. [To Find Transpose of a Matrix](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Transpose%20of%20a%20Matrix/main.c)
 # Conversion
 1. [Convert Binary Number to Decimal Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Binary%20to%20Decimal/main.c)
 2. [Convert Decimal Number to Binary Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Decimal%20to%20Binary/main.c)
@@ -26,12 +26,12 @@ C programs on various topics of C Programming such as array, strings, series, ar
 5. [To find Full pyramid (Numbers)](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Full%20Pyramid-%20Numbers)
 6. [To find Full pyramid (Stars)](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Full%20Pyramid-Stars)
 # Pointers
-1. [To Count Vowels and Consonants in a String]()
-2. [To create, initialize and access a pointer variable]()
-3. [To Find the Largest of three numbers]()
-4. [To Print String]()
-5. [To Swap two numbers]()
-6. [To find sum of array elements]()
+1. [To Count Vowels and Consonants in a String](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Count%20Vowels%20and%20Consonants/main.c)
+2. [To create, initialize and access a pointer variable](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Create%20and%20Access%20a%20Pointer/main.c)
+3. [To Find the Largest of three numbers](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Largest%20(Pointers)/main.c)
+4. [To Print String](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Print%20a%20String/main.c)
+5. [To Swap two numbers](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Swap%20(Pointers)/main.c)
+6. [To find sum of array elements](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Sum%20(Pointers)/main.c)
 # Programs on Calculation
 1. [To find the Average of two numbers]()
 2. [To Multiply two Floating Point Numbers]()
