@@ -1,6 +1,5 @@
 # C Programs for Beginners
-C programs on various topics of C Programming such as array, strings, series, area & volume of 
-geometrical figures, mathematical calculation, sorting & searching algorithms and many more.
+C programs on various topics of C Programming such as array, strings, series, area & volume of geometrical figures, mathematical calculation, sorting & searching algorithms and many more.
 # Arrays
 1. [To arrange numbers in ascending order]()
 2. [To Calculate Standard Deviation]()
@@ -10,15 +9,15 @@ geometrical figures, mathematical calculation, sorting & searching algorithms an
 6. [Swap Numbers in Cyclic Order Using Call by Reference]()
 7. [To Find Transpose of a Matrix]()
 # Conversion
-1. [Convert Binary Number to Decimal Number]()
-2. [Convert Decimal Number to Binary Number]()
-3. [Convert Decimal to Octal Number]()
-4. [Convert Octal Number to Decimal Number]()
-5. [Convert Binary to Octal Number System]()
-6. [Convert Octal Number to Binary Number]()
+1. [Convert Binary Number to Decimal Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Binary%20to%20Decimal/main.c)
+2. [Convert Decimal Number to Binary Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Decimal%20to%20Binary/main.c)
+3. [Convert Decimal to Octal Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Decimal%20to%20Octal/main.c)
+4. [Convert Octal Number to Decimal Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Octal%20to%20Decimal/main.c)
+5. [Convert Binary to Octal Number System](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Binary%20to%20Octal/main.c)
+6. [Convert Octal Number to Binary Number](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Octal%20to%20Binary/main.c)
 # Find out areas of Geometric Figures
-1. [Calculate Area and Circumference of Circle]()
-2. [Calculate Area of Equilatral triangle]()
+1. [Calculate Area and Circumference of Circle](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Area%20(Circle)/main.c)
+2. [Calculate Area of Equilatral triangle](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Area%20(Equilateral%20Triangle)/main.c)
 # Patterns
 1. [To find Half pyramid (Alphabets)](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Half%20Pyramid-Alphabets)
 2. [To find Half pyramid (Numbers)](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Half%20Pyramid-%20Numbers)
@@ -72,7 +71,7 @@ geometrical figures, mathematical calculation, sorting & searching algorithms an
 5. [To find the length of a String without using function strlen()]()
 6. [To concatenate two strings without using strcat]()
 # Sorting Programs
-1. [Bubble sorting]()
-2. [Insertion Sort]()
-3. [Selection Sort]()
-4. [Quicksort]()
+1. [Bubble sorting](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Bubble%20Sort/main.c)
+2. [Insertion Sort](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Insertion%20Sort/main.c)
+3. [Selection Sort](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Selection%20Sort/main.c)
+4. [Quicksort](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Quicksort/main.c)
