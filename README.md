@@ -33,15 +33,15 @@ C programs on various topics of C Programming such as array, strings, series, ar
 5. [To Swap two numbers](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Swap%20(Pointers)/main.c)
 6. [To find sum of array elements](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Sum%20(Pointers)/main.c)
 # Programs on Calculation
-1. [To find the Average of two numbers]()
-2. [To Multiply two Floating Point Numbers]()
+1. [To find the Average of two numbers](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Average%20of%20two%20numbers/main.c)
+2. [To Multiply two Floating Point Numbers](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Multiply%20Floating/main.c)
 3. [To check the Permutation (nPr) and Combination (nCr)](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/nPr_nCr)
-4. [To Find Quotient and Remainder]()
+4. [To Find Quotient and Remainder](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Quotient%20and%20Remainder/main.c)
 # Recursion
-1. [To find sum of array elements]()
+1. [To find sum of array elements](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Sum%20(Recursion)/main.c)
 2. [To find the Factorial of a number](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Factorial)
 3. [To find the GCD](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/GCD)
-4. [To calculate the power]()
+4. [To calculate the power](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Power%20(Recursion)/main.c)
 # Simple C Programs
 1. [To find the Addition of two Matrices](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Add%20Matrix/AddMatrix.c)
 2. [To find whether a number is an Armstrong Number or not](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Armstrong/Armstrong.c)
@@ -65,11 +65,11 @@ C programs on various topics of C Programming such as array, strings, series, ar
 20. [To check if a string has Vowels](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/Vowels)
 # String Programs
 1. [To Reverse a String](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Reverse/Reverse.c)
-2. [To convert uppercase string to lowercase string]()
-3. [To convert lowercase string to uppercase string]()
-4. [To Sort set of strings in alphabetical order]()
-5. [To find the length of a String without using function strlen()]()
-6. [To concatenate two strings without using strcat]()
+2. [To convert uppercase string to lowercase string](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Convert%20to%20Lowercase/main.c)
+3. [To convert lowercase string to uppercase string](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Convert%20to%20Uppercase/main.c)
+4. [To Sort set of strings in alphabetical order](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Sort%20set%20of%20Strings/main.c)
+5. [To find the length of a String without using function strlen()](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Find%20Length/main.c)
+6. [To concatenate two strings without using strcat](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Concatenate/main.c)
 # Sorting Programs
 1. [Bubble sorting](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Bubble%20Sort/main.c)
 2. [Insertion Sort](https://github.com/vasudevpooja/C-Programs-For-Beginners/blob/main/Insertion%20Sort/main.c)
